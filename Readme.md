@@ -1,6 +1,7 @@
 # 
 
 ## Gemini Suggested General Folder Structure?
+```text
 project-name/
 ├── configs/                    # Declarative YAML configs (Hydra / OmegaConf)
 │   ├── config.yaml             # Main entry-point config defaults
@@ -49,6 +50,7 @@ project-name/
 ├── outputs/                    # Git-ignored artifacts: checkpoints, logs, hydra dumps
 ├── pyproject.toml              # Dependencies, ruff/mypy config, package metadata
 └── README.md                   # Setup instructions, dataset attribution, reproduction commands
+```
 
 ## Overview
 This project implements and evaluates machine learning pipelines for classification with imbalanced data across three benchmark tabular datasets:
