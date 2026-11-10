@@ -1,5 +1,5 @@
 # Adaptive Class Weighting for Imbalanced Classification
-### Work in Progres
+### Work in Progress
 
 ## Gemini Suggested General Folder Structure?
 ```text
