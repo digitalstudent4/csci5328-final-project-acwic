@@ -243,5 +243,5 @@ If you reference or build upon this work, please cite the original dataset publi
 
 ## Project Code License
 
-* **Source Code:** All original Python scripts and notebooks written for this project are licensed under [TBA]
+* **Source Code:** All original Python scripts and notebooks written for this are All Rights Reserved.
 * **Datasets & BAF-Derived Artifacts:** The underlying datasets are **not** covered by the source code license and remain subject to their respective licenses listed above (`CC BY-NC-SA 4.0`, `ODC DbCL v1.0`, and `CC BY 4.0`). Any model weights or evaluation outputs derived from the Bank Account Fraud (BAF) dataset are shared strictly for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
